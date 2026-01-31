@@ -1,16 +1,16 @@
-# 🎯 Internship/Job Tracker
+Internship/Job Tracker
 
 A comprehensive full-stack application for tracking job applications, managing networking contacts, and staying organized during your internship/job search. Built with React, Node.js, Express, and SQLite.
 
-## ✨ Features
+Features
 
-### 🔐 Authentication
+Authentication
 - Email/Password registration and login with JWT tokens
 - LinkedIn OAuth integration for seamless sign-in
 - Secure password hashing with bcrypt
 - Multi-user support with isolated data
 
-### 📝 Application Management
+Application Management
 - Track unlimited job applications
 - Status tracking: Todo → Applied → Interview → Offered/Rejected
 - Priority scoring (0-10) for each application
@@ -19,7 +19,7 @@ A comprehensive full-stack application for tracking job applications, managing n
 - Application timeline and dates
 - Quick status updates with visual badges
 
-### 💼 Job Board Integration
+Job Board Integration
 - Automatic job fetching from SimplifyJobs/Summer2026-Internships
 - Browse 1000+ internship postings
 - One-click import to your applications
