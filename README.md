@@ -1,4 +1,6 @@
-# 🎯 Internship/Job Tracker
+Internship/Job Tracker
+
+Live on: https://tanikellapratik23.github.io/internshiptracker/
 
 A comprehensive full-stack application for tracking job applications, managing networking contacts, and staying organized during your internship/job search. Built with React, Node.js, Express, and SQLite.
 
